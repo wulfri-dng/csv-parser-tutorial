@@ -1,0 +1,19 @@
+  h1 {
+    text-align: center;
+    margin: 30px 0 40px 0;
+  }
+
+  form {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 500px;
+  }
+
+  #formFile {
+    width: 400px;
+  }
+
+  #previewTable {
+    margin: 30px;
+  }
